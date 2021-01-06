@@ -2,25 +2,22 @@
 SUSTech 2020 fall C++ 
 
 # time record
-> vscode \\ original : 
+> vscode 
 
-99 ms
-> vscode \\ optimized (without o3) : 
+vscode \\ original : 99 ms  
 
-20 ms
-> vscode \\ optimized (with o3) : 
+vscode \\ optimized (without o3) :  20 ms 
 
-5 ms
+vscode \\ optimized (with o3) : 5 ms
 
-> visual studio \\ original :
+> visual studio
 
-380 ms
-> visual studio \\ optimized (without o3) : 
+visual studio \\ original : 380 ms
 
-40 ms
-> visual studio \\ optimized (with o3) : 
+visual studio \\ optimized (without o3) : 40 ms
 
-50 ms
+visual studio \\ optimized (with o3) : 50 ms
+
 
 # data collection 
 > include screen shots
